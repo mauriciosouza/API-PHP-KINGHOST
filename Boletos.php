@@ -50,7 +50,7 @@ class Boletos extends Kinghost
 	* $boletos = new Boletos('meu@email.com' , '123456');
 	* print_r($boletos->getBancos());
 	* </code>
-	*
+	**
 	* @access public
 	* @return object
 	*/		
