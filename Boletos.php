@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 /**
 *	Classe para API Kinghost.net.
 *	Created on 09/09/2010
@@ -15,7 +15,7 @@ class Boletos extends Kinghost
 {
 	// getBoletos() {{{
 	/**
-	* Retorna os boletos do cliente passado como parâmetro, dominio e status solicitado (pago ou aberto)
+	* Retorna os boletos do cliente passado como parÃ¢metro, dominio e status solicitado (pago ou aberto)
 	* 
 	* Example:
 	* <code>
@@ -42,7 +42,7 @@ class Boletos extends Kinghost
 	
 	// getBancos() {{{
 	/**
-	* Retorna lista dos bancos para configuração de boletos.
+	* Retorna lista dos bancos para configuraÃ§Ã£o de boletos.
 	* 
 	* Example:
 	* <code>
